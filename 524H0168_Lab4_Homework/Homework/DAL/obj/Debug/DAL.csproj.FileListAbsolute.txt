@@ -1,0 +1,12 @@
+D:\524H0168_Lab4\Homework\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\524H0168_Lab4\Homework\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\524H0168_Lab4\Homework\DAL\bin\Debug\DAL.dll.config
+D:\524H0168_Lab4\Homework\DAL\bin\Debug\DAL.dll
+D:\524H0168_Lab4\Homework\DAL\bin\Debug\DAL.pdb
+D:\524H0168_Lab4\Homework\DAL\bin\Debug\EntityFramework.dll
+D:\524H0168_Lab4\Homework\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\524H0168_Lab4\Homework\DAL\bin\Debug\EntityFramework.xml
+D:\524H0168_Lab4\Homework\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\524H0168_Lab4\Homework\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\524H0168_Lab4\Homework\DAL\obj\Debug\DAL.dll
+D:\524H0168_Lab4\Homework\DAL\obj\Debug\DAL.pdb

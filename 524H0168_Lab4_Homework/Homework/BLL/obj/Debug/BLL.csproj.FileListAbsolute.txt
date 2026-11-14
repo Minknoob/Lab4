@@ -1,0 +1,12 @@
+D:\524H0168_Lab4\Homework\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\524H0168_Lab4\Homework\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\524H0168_Lab4\Homework\BLL\bin\Debug\BLL.dll
+D:\524H0168_Lab4\Homework\BLL\bin\Debug\BLL.pdb
+D:\524H0168_Lab4\Homework\BLL\bin\Debug\DAL.dll
+D:\524H0168_Lab4\Homework\BLL\bin\Debug\EntityFramework.dll
+D:\524H0168_Lab4\Homework\BLL\bin\Debug\DAL.pdb
+D:\524H0168_Lab4\Homework\BLL\bin\Debug\DAL.dll.config
+D:\524H0168_Lab4\Homework\BLL\bin\Debug\EntityFramework.xml
+D:\524H0168_Lab4\Homework\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\524H0168_Lab4\Homework\BLL\obj\Debug\BLL.dll
+D:\524H0168_Lab4\Homework\BLL\obj\Debug\BLL.pdb

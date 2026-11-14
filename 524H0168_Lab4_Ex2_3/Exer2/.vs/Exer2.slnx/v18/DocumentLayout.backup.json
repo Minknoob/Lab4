@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\524H0168_Lab4\\Ex2\\Exer2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F62ACB-0559-4A1D-A548-A3503CC5353E}|WebUI\\WebUI.csproj|d:\\524h0168_lab4\\ex2\\exer2\\webui\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B8F62ACB-0559-4A1D-A548-A3503CC5353E}|WebUI\\WebUI.csproj|solutionrelative:webui\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.aspx",
+              "DocumentMoniker": "D:\\524H0168_Lab4\\Ex2\\Exer2\\WebUI\\Main.aspx",
+              "RelativeDocumentMoniker": "WebUI\\Main.aspx",
+              "ToolTip": "D:\\524H0168_Lab4\\Ex2\\Exer2\\WebUI\\Main.aspx",
+              "RelativeToolTip": "WebUI\\Main.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-04T07:44:19.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
